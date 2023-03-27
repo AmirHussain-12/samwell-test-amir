@@ -9,7 +9,7 @@ To install:
 
     npm i
 ##  To Run the App
-To run the backend on http://localhost:30001 and front-end on http://localhost:3001: This command will run both of them concurrently
+To run the backend on http://localhost:30001 and front-end on http://localhost:3000: This command will run both of them concurrently
 
     npm start'
 
